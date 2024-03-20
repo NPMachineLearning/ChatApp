@@ -21,7 +21,7 @@ All of these tools will be built and run using docker, and more specifically doc
 
    - Overview ✔
    - Local setup ✔
-   - About the API 🚧
+   - About the API ✔
    - Kafka streaming 🚧
    - Postgres set-up 🚧
    - Spark Set-up 🚧
