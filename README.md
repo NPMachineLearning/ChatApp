@@ -19,4 +19,15 @@ All of these tools will be built and run using docker, and more specifically doc
 
 1. https://towardsdatascience.com/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090
 
+   - Overview ✔
+   - Local setup ✔
+   - About the API 🚧
+   - Kafka streaming 🚧
+   - Postgres set-up 🚧
+   - Spark Set-up 🚧
+   - Airflow 🚧
+   - Airflow DAG 🚧
+   - About the DockerOperator 🚧
+   - Airflow Configuration 🚧
+
 2. https://towardsdatascience.com/building-a-chat-app-with-langchain-llms-and-streamlit-for-complex-sql-database-interaction-7433245079f3
